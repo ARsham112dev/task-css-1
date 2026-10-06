@@ -126,3 +126,10 @@ footer {
         text-align: center;
         margin: 0;
 }
+#view-topics-link {
+    margin: 8px;
+    text-decoration: none;
+    color: rgb(8, 44, 76);
+    font-size: 14px;
+    font-weight: bold;
+}
