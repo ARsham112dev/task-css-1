@@ -1,0 +1,128 @@
+
+body {
+    text-align: center;
+    background-color: rgb(206, 210, 212);
+    margin: 0;
+    font-family: Vazirmatn, sans-serif;
+}
+h1{
+    color: rgb(45, 43, 43);
+}
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+header {
+    border-bottom: solid 1px gray;
+    background-color: white;
+    padding-top: 1px;
+}
+a {
+    text-decoration: none;
+}
+main {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+#mother-box {
+    background-color: white;
+    border: 1px solid rgb(235, 228, 228);
+    border-radius: 0.5rem;
+    width: 650px;
+    padding: 1px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#HTML-CSS-banner {
+    background-color: rgb(100, 165, 161);
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(6, 84, 74);
+    border: 1px solid white;
+    margin: 30px;
+    margin-bottom: 15px;
+    border-radius: 0.5rem;
+    width: 600px;
+}
+#seccond-banner {
+    background-color: rgb(151, 241, 235);
+    font-size: 12px;
+    border: 1px solid white;
+    width: 15%;
+    border-radius: 0.5rem;
+}
+#seccond-banner-p {
+    margin: 0;
+    color: rgb(9, 113, 99);
+}
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    color: rgb(45, 43, 43);
+}
+#Description-p {
+    color: rgb(97, 104, 109);
+    margin: 0;
+}
+hr {
+    width: 600px;
+    margin: 8px 0px;
+    color: rgb(158, 162, 165);
+}
+.course-p {
+    margin: 3px 0px;
+    padding: 0px 12px;
+    unicode-bidi: plaintext;
+}
+#course-duration {
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(237, 237, 232);
+    padding: 3px;
+    margin: 5px;
+    width: 600px;
+    border-radius: 0.5rem;
+}
+#course-level {
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(237, 237, 232);
+    padding: 3px;
+    margin: 5px;
+    width: 600px;
+    border-radius: 0.5rem;
+}
+#course-way-of-teaching {
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(237, 237, 232);
+    padding: 3px;
+    margin: 5px;
+    width: 600px;
+    border-radius: 0.5rem;
+}
+button {
+    width: 600px;
+    background-color: rgb(9, 113, 99);
+    color: white;
+    font-size: 18px;
+    font-family: Vazirmatn, sans-serif;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+footer {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 11px;
+        word-spacing: 8px;
+        border-radius: 0.5rem;
+        text-align: center;
+        margin: 0;
+}
